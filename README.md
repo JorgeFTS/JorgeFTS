@@ -4,6 +4,7 @@
 💻 Enfocado en **backend development**, **QA testing** y el mundo de **DevOps**  
 
 ---
+<img src="assets/banner_walk_laptop.gif" width="100%" alt="" />
 
 ## 🚀 Tecnologías y herramientas
 
