@@ -1,6 +1,6 @@
 # 👋 Hola, soy Jorge
 
-🎓 Estudiante de Ingeniería de Sistemas en la **Universidad Peruana de Ciencias Aplicadas (UPC)**  
+🎓 Estudiante de Ingeniería de Software en la **Universidad Peruana de Ciencias Aplicadas (UPC)**  
 💻 Enfocado en **backend development**, **QA testing** y el mundo de **DevOps**  
 
 ---
